@@ -1,0 +1,7 @@
+C:\Users\emileneroth\source\repos\ConsoleSpelTest1\ConsoleSpel1\ConsoleSpel1\bin\Debug\ConsoleSpel1.exe.config
+C:\Users\emileneroth\source\repos\ConsoleSpelTest1\ConsoleSpel1\ConsoleSpel1\bin\Debug\ConsoleSpel1.exe
+C:\Users\emileneroth\source\repos\ConsoleSpelTest1\ConsoleSpel1\ConsoleSpel1\bin\Debug\ConsoleSpel1.pdb
+C:\Users\emileneroth\source\repos\ConsoleSpelTest1\ConsoleSpel1\ConsoleSpel1\obj\Debug\ConsoleSpel1.csprojAssemblyReference.cache
+C:\Users\emileneroth\source\repos\ConsoleSpelTest1\ConsoleSpel1\ConsoleSpel1\obj\Debug\ConsoleSpel1.csproj.CoreCompileInputs.cache
+C:\Users\emileneroth\source\repos\ConsoleSpelTest1\ConsoleSpel1\ConsoleSpel1\obj\Debug\ConsoleSpel1.exe
+C:\Users\emileneroth\source\repos\ConsoleSpelTest1\ConsoleSpel1\ConsoleSpel1\obj\Debug\ConsoleSpel1.pdb
